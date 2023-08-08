@@ -1,0 +1,6 @@
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\bin\Debug\DynamicLoadingLibrary.dll
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\bin\Debug\DynamicLoadingLibrary.pdb
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\obj\Debug\DynamicLoadingLibrary.csproj.AssemblyReference.cache
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\obj\Debug\DynamicLoadingLibrary.csproj.CoreCompileInputs.cache
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\obj\Debug\DynamicLoadingLibrary.dll
+D:\Dummy\DynamicLoadingLibrary\DynamicLoadingLibrary\obj\Debug\DynamicLoadingLibrary.pdb

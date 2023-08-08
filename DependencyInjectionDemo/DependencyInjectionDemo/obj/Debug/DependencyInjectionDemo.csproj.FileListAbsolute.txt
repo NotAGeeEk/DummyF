@@ -1,0 +1,8 @@
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.exe.config
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.exe
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.pdb
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.csproj.AssemblyReference.cache
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.exe
+D:\Dummy\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.pdb
